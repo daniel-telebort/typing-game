@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+}
+
+.purple-gradient {
+  background: linear-gradient(40deg,#45cafc,#303f9f);
+}
+
+.content {
+  margin: 10% 20%;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+input {
+  border: none;
+}
+
+.notVisible {
+    visibility: hidden;
+}
